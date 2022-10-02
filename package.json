@@ -1,7 +1,7 @@
 {
   "name": "my-app",
   "version": "0.1.0",
-  "homepage": "https://frontella.github.io/React_UI_based_on_location_and_temperature",
+  "homepage": "https://frontendella.github.io/React_UI_based_on_location_and_temperature",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.2",
